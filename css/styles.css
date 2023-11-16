@@ -1,0 +1,17 @@
+body{
+  background-color: LavenderBlush;
+
+}
+h1{
+  color: #BEADFA;
+}
+h3{
+  color: #BEADFA;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
